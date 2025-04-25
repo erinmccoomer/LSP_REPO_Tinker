@@ -1,0 +1,10 @@
+Final Question 4:
+
+One instance where using a design pattern may not be beneficial is when it introduces unnecessary complexity 
+to a simple problem. This was discussed in lecture as a common downside: while patterns promote flexibility 
+and reuse, they can overcomplicate the design if applied in the wrong context. As noted in the “Introduction 
+to Design Patterns” slides, “Although design patterns are useful in promoting flexibility, this may be at the 
+expense of a more complicated design.” In some cases, implementing the pattern itself takes more time and effort 
+than the problem warrants. The solution can become overly layered, with additional classes or interfaces that 
+don’t provide meaningful benefit. A key takeaway from class was that good design is about clarity and 
+simplicity—just because a pattern exists does not mean it should be used.
